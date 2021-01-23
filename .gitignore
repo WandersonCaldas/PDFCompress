@@ -1,0 +1,5 @@
+/src/bin/Debug
+/src/obj
+/src/packages
+/src/*.user
+/src/.vs
